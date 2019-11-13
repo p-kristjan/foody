@@ -27,7 +27,7 @@ font-family: 'Lobster Two', cursive;
 
 .introduction{
     height: 980px;
-    background-image: url("/img/background1.jpg");
+    background-image: url("../img/background1.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -117,7 +117,7 @@ font-family: 'Lobster Two', cursive;
 }
 
 .storyimage{
-    background-image: url(/img/img1.jpg);
+    background-image: url("../img/img1.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -163,7 +163,7 @@ font-family: 'Lobster Two', cursive;
 }
 
 .quote{
-    background-image: url("/img/background2.jpg");
+    background-image: url("../img/background2.jpg");
     height: 500px;
     background-size: cover;
     background-position: bottom;
@@ -212,42 +212,42 @@ h2{
 
 .menu1{
     grid-area: img1;
-    background-image: url("/img/menu1.png");
+    background-image: url("../img/menu1.png");
     background-size: cover;
     background-position: center;
 }
 
 .menu2{
     grid-area: img2;
-    background-image: url("/img/menu2.png");
+    background-image: url("../img/menu2.png");
     background-size: cover;
     background-position: center;
 }
 
 .menu3{
     grid-area: img3;
-    background-image: url("/img/menu3.jpg");
+    background-image: url("../img/menu3.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .menu4{
     grid-area: img4;
-    background-image: url("/img/menu4.png");
+    background-image: url("../img/menu4.png");
     background-size: cover;
     background-position: center;
 }
 
 .menu5{
     grid-area: img5;
-    background-image: url("/img/menu5.jpg");
+    background-image: url("../img/menu5.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .menu6{
     grid-area: img6;
-    background-image: url("/img/menu6.jpg");
+    background-image: url("../img/menu6.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -328,7 +328,7 @@ h2{
 .video{
     margin-top: 65px;
     height: 450px;
-    background-image: url("/img/background3.jpg");
+    background-image: url("../img/background3.jpg");
     box-shadow: inset 0 0 0 1000px var(--colorBlackTrans);
     background-size: cover;
     background-position: center;
@@ -394,21 +394,21 @@ h2{
 
 .gallery1{
     grid-area: gal1;
-    background-image: url("/img/img2.jpg");
+    background-image: url("../img/img2.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .gallery2{
     grid-area: gal2;
-    background-image: url("/img/img3.jpg");
+    background-image: url("../img/img3.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .gallery3{
     grid-area: gal3;
-    background-image: url("/img/img4.jpg");
+    background-image: url("../img/img4.jpg");
     background-size: cover;
     background-position: center;
 }
